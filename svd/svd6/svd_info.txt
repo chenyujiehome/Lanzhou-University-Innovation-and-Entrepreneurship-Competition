@@ -1,0 +1,29 @@
+
+   The total squared covariance=************
+
+     l=*(l=0 indicate that call subroutine UAV(SVD) normal finished,else unnormal finished)
+
+   The sum of squared singular value=************
+
+    According to properties of SVD, the sum of squaredsingular value must
+  be equal to the total squared covariance ! 
+
+  The singular values:
+    781.011  -358.453  -249.864   235.942  -637.545   196.697   187.285   139.051
+
+    126.046   118.298
+
+    The percentage of the squared covariance explained by a single pair of patterns (give first NP pairs) is:
+       41.02        8.64        4.20        3.74       27.34        2.60        2.36        1.30        1.07        0.94
+
+    The percentage of the cumulative squared covariance explained by the leading K modes is:
+       41.02       49.67       53.86       57.61       84.94       87.55       89.91       91.21       92.27       93.22
+
+  The correlation coefficient between the corresponding expansion coefficents r(a,b) (first to NP-th pair) are: 
+        0.77       -0.72       -0.82        0.82       -0.54        0.65        0.77        0.76        0.70        0.80
+
+   The  percentages of  the  variance  of left  field explained by a single singular vector are:
+       17.77       10.21        7.19        4.90        7.61        9.25        4.87        2.66        2.93        1.91
+
+   The  percentages of  the  variance  of right field explained by a single singular vector are:
+       16.25        6.85        3.63        4.93       16.23        3.16        3.42        3.56        3.14        3.26

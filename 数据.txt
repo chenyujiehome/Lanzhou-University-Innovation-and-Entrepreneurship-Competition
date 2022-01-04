@@ -1,0 +1,6 @@
+土壤湿度：https://psl.noaa.gov/data/gridded/data.cpcsoil.html
+全球海温：https://www.psl.noaa.gov/data/gridded/data.cobe.html
+风场：https://psl.noaa.gov/data/gridded/data.ncep.reanalysis.pressure.html
+青藏高原降水台站数据：
+
+数据每一行为一个站点1961-2018年的全部数据（顺序排列），共66个站点也就有66行，对应站点的站点号和经纬度在其中一个文件里。我处理了逐日和逐月的数据，生成了两个文件，加上站点信息的文件，共三个文件。其中需注意的问题是，逐日数据缺测值为99999.0，月降水量数据为改月所有的观测的和，在某些月份逐日数据缺测较多的月份，月降水可能并不准确。

@@ -1,0 +1,26 @@
+ Copyright (C) 1995-2017 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.4.0
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	0.3781835
+(1)	0.4094065
+(2)	0.4426546
+(3)	0.3032496
+(4)	0.4148251
+(5)	0.5062719
+(6)	0.5663713
+(7)	0.5494398
+(8)	0.3612463
+(9)	0.4078979
+(0)	----------------------------
+(0)	0.3781835
+(1)	0.2712926
+(2)	0.151522
+(3)	0.2713812
+(4)	0.2106579
+(5)	0.2646774
+(6)	0.154774
+(7)	0.1588694
+(8)	0.1206356
+(9)	0.1666745

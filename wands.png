@@ -1,0 +1,41 @@
+ Copyright (C) 1995-2017 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.4.0
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+
+Variable: snow_spring
+Type: float
+Total Size: 52164 bytes
+            13041 values
+Number of Dimensions: 2
+Dimensions and sizes:	[lat | 81] x [lon | 161]
+Coordinates: 
+            lat: [45..25]
+            lon: [65..105]
+Number Of Attributes: 1
+  _FillValue :	-1
+
+Variable: snow_winter
+Type: float
+Total Size: 52164 bytes
+            13041 values
+Number of Dimensions: 2
+Dimensions and sizes:	[lat | 81] x [lon | 161]
+Coordinates: 
+            lat: [45..25]
+            lon: [65..105]
+Number Of Attributes: 1
+  _FillValue :	-1
+
+Variable: snow_spring_mask
+Type: float
+Total Size: 52164 bytes
+            13041 values
+Number of Dimensions: 2
+Dimensions and sizes:	[lat | 81] x [lon | 161]
+Coordinates: 
+            lat: [45..25]
+            lon: [65..105]
+Number Of Attributes: 1
+  _FillValue :	-1
